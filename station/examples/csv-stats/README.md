@@ -35,4 +35,4 @@ Values:
 - Or use: 
 ```python generate_csv.py```
 then:
-```node index.js ruta/al/archivo.csv```
+```node index.js path/to/file.csv```
